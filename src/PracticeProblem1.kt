@@ -48,7 +48,7 @@ fun main() {
     println("$firstNumber + $thirdNumber = $anotherResult")
 
 }
-
+// add function
 fun add(first : Int, second : Int): Int{
     return first + second
 }
